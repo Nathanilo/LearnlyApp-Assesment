@@ -1,5 +1,8 @@
 # LearnlyApp-Assesment
 
+### Live link - https://softcityfrontend.vercel.app/
+### Swagger docs - https://softcityapi.onrender.com/docs
+
 - Link to frontend repo - https://github.com/Nathanilo/softcityfrontend
 - Link to backend repo - https://github.com/Nathanilo/softcityapi
 
